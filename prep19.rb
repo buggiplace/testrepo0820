@@ -1,4 +1,4 @@
-puts "TEST GIT PUSH"
+puts "TEST GIT PUSH BRANCH CALC DIVIDE"
 
 class Question
   attr_accessor :prompt, :answer
