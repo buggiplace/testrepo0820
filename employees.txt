@@ -9,3 +9,4 @@ Moritz, BusDev
 Sascha, Sales
 Moritz, BusDev
 Sascha, Sales
+Klaus, IT

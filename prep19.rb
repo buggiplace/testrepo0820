@@ -1,3 +1,5 @@
+puts "TEST GIT PUSH"
+
 class Question
   attr_accessor :prompt, :answer
   def initialize(prompt, answer)
