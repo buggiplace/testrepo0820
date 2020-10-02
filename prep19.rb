@@ -16,6 +16,7 @@ questions = [
   Question.new(p3,"b")
 ]
 
+
 def run_test(questions)
   answer = ""
   score = 0
